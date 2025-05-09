@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-read
-=======
 <h1 align="center">Alu-AirBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
@@ -83,4 +80,3 @@ $ python3 unittest -m tests/test_console.py
 
 * **Christian Ishimwe Ntwali** <[Christia3](https://github.com/Christia3)> <c.ishimwent@alustudent.com>
 * **Gisa Rwema** <[Rwema01](https://github.com/Rwema01)> <r.gisa@alustudent.com>
->>>>>>> ec2ccc2f75332519065ed12a2fabd0764591d26b
