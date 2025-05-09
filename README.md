@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-read
 =======
 <h1 align="center">Alu-AirBnB</h1>
 <p align="center">An AirBnB clone.</p>
